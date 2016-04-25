@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .proton import *
+from .proton import proton, employees, top1000passwords, logs, bash_history
 from .datasets import *
 
 print("""
