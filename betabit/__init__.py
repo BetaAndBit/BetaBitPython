@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from .proton import proton, employees, top1000passwords, logs, bash_history
-from .datasets import bash_history_description, employees_description, logs_description, top1000passwords_description
+from .frequon import frequon, englishLetterFrequency, top100commonWords, wikiquotes, roses, pcs, ginklai
+from .datasets import bash_history_description, employees_description, logs_description, top1000passwords_description, englishLetterFrequency_description, top100commonWords_description, wikiquotes_description, roses_description, pcs_description, ginklai_description
 
 print("""
  _____     _                    _    _____ _ _      _____

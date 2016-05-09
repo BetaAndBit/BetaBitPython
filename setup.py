@@ -42,6 +42,10 @@ def dependencies():
         import hashlib
     except ImportError:
         requirments.append("hashlib")
+    try:
+        import re
+    except ImportError:
+        requirments.append("re")
         
     return requirments
 

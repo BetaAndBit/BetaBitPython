@@ -68,3 +68,89 @@ def top1000passwords_description():
    
 The numpy array of 1000 most commonly used passwords.
 It is sorted by the frequency of password's usage. First passwords in the numpy array are the most frequently used.""")
+    
+
+def englishLetterFrequency_description():
+   """
+   The letter frequencies in English.
+   
+   The pandas DataFrame with frequencies of 26 English letters. 
+   It is sorted by the frequency of usage.
+   May be used to refine the transliteraton.
+   """
+
+   print("""The letter frequencies in English.
+   
+The pandas DataFrame with frequencies of 26 English letters. 
+It is sorted by the frequency of usage.
+May be used to refine the transliteraton.""")
+    
+
+def top100commonWords_description():
+   """
+   The top 100 most common words in English.
+   
+   The numpy array of 100 most commonly used words in English.
+   It is sorted by the frequency of usage.
+   May be used to refine the transliteraton.
+   """
+
+   print("""The top 100 most common words in English.
+   
+The numpy array of 100 most commonly used words in English.
+It is sorted by the frequency of usage.
+May be used to refine the transliteraton.""")
+    
+
+def wikiquotes_description():
+   """
+   The quotes in 18 languages.
+   
+   The pandas DataFrame with quotes in 18 languages. Based on wikiquotes.
+   """
+
+   print("""The quotes in 18 languages.
+   
+The pandas DataFrame with quotes in 18 languages. Based on wikiquotes.""")
+    
+    
+def roses_description():
+   """
+   The message to be decoded.
+
+   The message to be decoded in the game `frequon()`.
+   How to access it? You have to figure out this by yourself.
+   """
+
+   print("""The message to be decoded.
+   
+The message to be decoded in the game `frequon()`.
+How to access it? You have to figure out this by yourself.""")
+    
+    
+def pcs_description():
+   """
+   The message to be decoded.
+
+   The message to be decoded in the game `frequon()`.
+   How to access it? You have to figure out this by yourself.
+   """
+
+   print("""The message to be decoded.
+   
+The message to be decoded in the game `frequon()`.
+How to access it? You have to figure out this by yourself.""")
+    
+    
+def ginklai_description():
+   """
+   The message to be decoded.
+
+   The message to be decoded in the game `frequon()`.
+   How to access it? You have to figure out this by yourself.
+   """
+
+   print("""The message to be decoded.
+   
+The message to be decoded in the game `frequon()`.
+How to access it? You have to figure out this by yourself.""")
