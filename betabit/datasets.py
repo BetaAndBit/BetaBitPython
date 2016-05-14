@@ -128,6 +128,20 @@ The message to be decoded in the game `frequon()`.
 How to access it? You have to figure out this by yourself.""")
     
     
+def lyo_description():
+   """
+   The message to be decoded.
+
+   The message to be decoded in the game `frequon()`.
+   How to access it? You have to figure out this by yourself.
+   """
+
+   print("""The message to be decoded.
+   
+The message to be decoded in the game `frequon()`.
+How to access it? You have to figure out this by yourself.""")
+    
+    
 def pcs_description():
    """
    The message to be decoded.
@@ -142,7 +156,7 @@ The message to be decoded in the game `frequon()`.
 How to access it? You have to figure out this by yourself.""")
     
     
-def ginklai_description():
+def pistoale_description():
    """
    The message to be decoded.
 
